@@ -1,1 +1,2 @@
 More changes!
+This is my second GIT class :)
