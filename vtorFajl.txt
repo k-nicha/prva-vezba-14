@@ -2,3 +2,4 @@ More changes!
 This is my second GIT class :)
 
 This lesson is fun! 
+And difficult!
